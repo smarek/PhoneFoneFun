@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ERICH-PhoneFoneFun.iml" filepath="$PROJECT_DIR$/ERICH-PhoneFoneFun.iml" group="PhoneFoneFun" />
       <module fileurl="file://$PROJECT_DIR$/PhoneFoneFun.iml" filepath="$PROJECT_DIR$/PhoneFoneFun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/PhoneFoneFun-app.iml" filepath="$PROJECT_DIR$/app/PhoneFoneFun-app.iml" group="PhoneFoneFun/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

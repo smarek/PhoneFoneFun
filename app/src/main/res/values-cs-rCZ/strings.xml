@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="hello">
+        <item>Ahoj?</item>
+        <item>Čau!</item>
+        <item>Jak je!</item>
+        <item>Ahoj chlape!</item>
+        <item>Co se děje?</item>
+    </string-array>
+
+    <string-array name="bye">
+        <item>Ahoj</item>
+        <item>Nashledanou!</item>
+        <item>Naviděnou</item>
+        <item>Nashle později</item>
+    </string-array>
+
+    <string-array name="convo">
+        <item>Ahoj!</item>
+        <item>Jak se ti vede?</item>
+        <item>Mě se vede skvěle!</item>
+        <item>Máš rád banány?</item>
+        <item>Já mám rád banány</item>
+        <item>Jaká je tvoje oblíbená barva?</item>
+        <item>Moje oblíbená barva je modrá.</item>
+        <item>Kde máš kočku?</item>
+        <item>Venku tě čeká strom?</item>
+        <item>Zajíc skáče na louce</item>
+        <item>Kde máš nos?</item>
+        <item>Já mám dvě oči</item>
+
+        <item>Počítej!</item>
+        <item>1, 2, 3, 4, 5</item>
+        <item>6, 7, 8, 9, 10</item>
+        <item>Děkuji!</item>
+
+
+        <item>Zazpíváme si písničku!</item>
+
+        <item>A B C D E F G </item>
+        <item>H I J K L M N O P</item>
+        <item>Q R S. T U V</item>
+        <item>W X Y a Z</item>
+        <item>Teď znáš celou abecedu</item>
+        <item>Příště ji můžeš vyjmenovat sám.</item>
+
+        <item>Zazpíváme si jinou písničku!</item>
+
+        <item>Skákal pes, přes oves</item>
+        <item>Přes zelenou louku</item>
+        <item>Šel za ním, myslivec</item>
+        <item>Péro na klobouku</item>
+
+        <item>Jinou písničku!</item>
+
+        <item>Kolo, kolo, mlýnský</item>
+        <item>Za čtyři rýnský</item>
+        <item>Kolo se nám polámalo</item>
+        <item>Mnoho škody nadělalo</item>
+        <item>Udělalo, bác</item>
+        <item>Vezmeme si, hoblík, pilku</item>
+        <item>Zahrajem si ještě chvilku</item>
+        <item> </item>
+    </string-array>
+
+    <string name="app_name">PhoneFoneFun</string>
+    <string name="hello1">Ahoj!</string>
+    <string name="ring">Zvonek</string>
+    <string name="bye">Čau</string>
+    <string name="hello">Ahoj</string>
+    <string name="close">Zavřít</string>
+    <string name="one23">3, Utíkej!</string>
+    <string name="nine12">2, Našel jsi tísňovou linku</string>
+    <string name="blast">1. Jedeme!</string>
+    <string name="seis">6. Ahoj, dovolal ses do pekla</string>
+    <string name="about">Tento program je open-source. Zdrojový kód a licence je na GIthub.</string>
+    <string name="bond">7. Ahoj chlape</string>
+    <string name="five55">5. Je nám líto, ale volané číslo je moc vtipné</string>
+    <string name="name_link">Copyright 2017–2018 Tom Kliethermes.</string>
+    <string name="contact">1. Kontakt! To je tajemství</string>
+    <string name="nine99">9. Pomoc! Pomoc!</string>
+    <string name="nine11">1. Zatancujeme si?</string>
+    <string name="nenny">nigh e ayn</string>
+    <string name="aboutlab">O aplikaci</string>
+</resources>

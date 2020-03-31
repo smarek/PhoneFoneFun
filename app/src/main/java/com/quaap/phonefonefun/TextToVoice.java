@@ -82,7 +82,7 @@ public class TextToVoice implements TextToSpeech.OnInitListener {
     public void onInit(int status) {
         if (status == TextToSpeech.SUCCESS) {
             //TODO: dynamically look up which set of translation files the app is loading.
-            int result = mTts.setLanguage(Locale.ENGLISH);
+            int result = mTts.setLanguage(Locale.getDefault());
             isInit = true;
 
             if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
